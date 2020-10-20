@@ -2,7 +2,7 @@
 
 ## Le lem-in :
 
-Le lem-in est un projet de première année à Epitech (Tek1), il intervient pendant le second semestre du module CPE
+Le lem-in est un projet de première année à Epitech (Tek1), il intervient pendant le second semestre du module CPE.
 Le projet est dur mais pas impossible, preuve, j'ai fait 77% tout seul.
 
 
